@@ -1,0 +1,18 @@
+Terminal Menü in einer While schleife bis Ende Knopf betätigt wird
+
+- menü funktionen:
+  eine neue Person hinzufügen
+  - neues kind in der personen klasse mit vorname und alter
+  alle Personen ausgeben
+  - alle kinder der personen klasse printen mit der report funktion
+  eine person löschen
+  - eine person aus der klasse löschen
+  eine person ein jahr älter werden lassen
+  - geburtstag methode durchführen und alter inkrementieren
+  beenden knopf
+  - beendet das programm
+
+personen daten einer person in die klasse personen
+
+funktion für geburtstag und report
+
