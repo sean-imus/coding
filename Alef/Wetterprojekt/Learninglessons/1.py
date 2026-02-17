@@ -12,8 +12,8 @@ def chiffre(text, offset):
             result += char
     return result
 
-verschluesselt = chiffre(text, offset)
-print("Verschlüsselt:", verschluesselt)
+encrypted = chiffre(text, offset)
+print("Verschlüsselt:", encrypted)
 
-entschluesselt = chiffre(verschluesselt, -offset)
-print("Entschlüsselt:", entschluesselt)
+decrypted = chiffre(encrypted, -offset)
+print("Entschlüsselt:", decrypted)
