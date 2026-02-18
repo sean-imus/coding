@@ -1,0 +1,9 @@
+daten sind in ./Wetterdaten/ vorhanden.
+
+nur die produkt_klima_tag datei is wichtig
+
+stationenposition in Tageswerte_beschreibung_Station
+
+klimadaten einer station in produkt_klima_tag
+
+sq tabelle soll zu jeder staion ihre geographische lage speichern und die dazugehörigen wetterdaten
