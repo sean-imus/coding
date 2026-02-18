@@ -1,7 +1,7 @@
 import math
 
 def berechne_distanz(lat1, lon1, lat2, lon2):
-    R = 6371
+    R = 6371 # Radius Erde
     lat1_rad = math.radians(lat1)
     lat2_rad = math.radians(lat2)
     delta_lat = math.radians(lat2 - lat1)
