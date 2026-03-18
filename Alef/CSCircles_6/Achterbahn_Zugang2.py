@@ -20,4 +20,4 @@ elif (korrektes_alter == "y" and schwanger == "y"):
     print("Sie haben zwar das richtige Alter, dürfen aber aufgrund Ihrer Schwangerschaft nicht mitfahren")
 
 elif (korrektes_alter == "n" and schwanger == "n"):
-    print("Du bist zwar nicht schwanger aber du bist zu jung für die Achterbahnfahrt")
+    print("Du bist nicht schwanger und du bist zu jung für die Achterbahnfahrt")
