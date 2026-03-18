@@ -8,7 +8,7 @@ output_folder = "Wetterdaten_extracted"
 zip_files = Path(zip_folder).glob("*.zip")
 
 for zip_file in zip_files:
-    with zipfile.Zipfile(zip_file, 'r') as z:
+    with zipfile.ZipFile(zip_file, 'r') as z:
         z.extractall(output_folder)
 
 print("Done!")
